@@ -6,8 +6,33 @@
     <projectFile profileName="http">Services/Catalog/Catalog.API/Catalog.API.csproj</projectFile>
     <projectFile profileName="https">Services/Catalog/Catalog.API/Catalog.API.csproj</projectFile>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee82c6f4-55f4-4bff-908b-a98c3fb536c0" name="Changes" comment="" />
+    <list default="true" id="ee82c6f4-55f4-4bff-908b-a98c3fb536c0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/BuildingBlocks/BuildingBlocks/CQRS/ICommand.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BuildingBlocks/BuildingBlocks/CQRS/ICommandHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BuildingBlocks/BuildingBlocks/CQRS/IQuery.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BuildingBlocks/BuildingBlocks/CQRS/IQueryHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/Models/Product.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/Products/CreateProduct/CreateProductEndPoint.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/Products/CreateProduct/CreateProductHandler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.eshop-microservices/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.eshop-microservices/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.eshop-microservices/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.eshop-microservices/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/Catalog/Catalog.API/Catalog.API.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/Catalog.API.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/Catalog/Catalog.API/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/Properties/launchSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/Catalog.API.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/Catalog.API.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/Debug/net8.0/Catalog.API.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/Debug/net8.0/Catalog.API.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/Debug/net8.0/Catalog.API.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/Debug/net8.0/Catalog.API.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/Debug/net8.0/Catalog.API.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/Debug/net8.0/Catalog.API.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-microservices.sln" beforeDir="false" afterPath="$PROJECT_DIR$/eshop-microservices.sln" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,10 +41,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 2
-}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7415982338a3ccbd2a7a4eb483af627bda727e356b86bb32c5d4f6998f9c/IRequestHandler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/acc1b77cc45c4a40776b82171fa4ec222605366a852c29d3fc53459da0e72d/Unit.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BuildingBlocks/BuildingBlocks/Class1.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2j6hi1rTJDt0psBlsQZTfOFhX7Y" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,6 +64,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.smartKeys_rider",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -103,7 +134,10 @@
       <method v="2" />
     </configuration>
     <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
-      <deployment type="dockerfile" />
+      <deployment type="dockerfile">
+        <settings />
+      </deployment>
+      <EXTENSION ID="com.jetbrains.rider.docker.debug" isFastModeEnabled="true" isSslEnabled="false" />
       <method v="2" />
     </configuration>
   </component>
@@ -115,7 +149,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1720713559120</updated>
-      <workItem from="1720713561843" duration="334000" />
+      <workItem from="1720713561843" duration="891000" />
+      <workItem from="1721058251719" duration="5024000" />
     </task>
     <servers />
   </component>

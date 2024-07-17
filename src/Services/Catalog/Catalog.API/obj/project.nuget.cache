@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "GAReSrsTSHqWbefLyvONhO1wj2tyRlQA1MGYuMIIqondQ4uco9SMr5ObJXuJpfUlKXs2hcVcOuLRDEaxyqyR8A==",
+  "dgSpecHash": "BVJMZQO/MwgGYP3X+hr3t0+DuFqXkc+CyWkQZObPdY4XIIbIAf9s1oPDuatq7TJOopQqX6YY7t69LulX4iW4lA==",
   "success": true,
   "projectFilePath": "D:\\Code\\EshopMicroservices\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\namng\\.nuget\\packages\\mediatr\\12.3.0\\mediatr.12.3.0.nupkg.sha512",
+    "C:\\Users\\namng\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\namng\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\namng\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\microsoft.visualstudio.azure.containers.tools.targets.1.20.1.nupkg.sha512"
   ],
   "logs": [
