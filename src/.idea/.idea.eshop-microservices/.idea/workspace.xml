@@ -11,24 +11,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee82c6f4-55f4-4bff-908b-a98c3fb536c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/GlobalUsing.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.eshop-microservices/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.eshop-microservices/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/eshop-microservices/FileContentIndex/0e725088-a36b-41df-834b-eb97cd3a73e4.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/eshop-microservices/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/eshop-microservices/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/eshop-microservices/v17/DocumentLayout.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/eshop-microservices/v17/DocumentLayout.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuildingBlocks/BuildingBlocks/obj/BuildingBlocks.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BuildingBlocks/BuildingBlocks/obj/BuildingBlocks.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuildingBlocks/BuildingBlocks/obj/BuildingBlocks.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/BuildingBlocks/BuildingBlocks/obj/BuildingBlocks.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuildingBlocks/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BuildingBlocks/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuildingBlocks/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BuildingBlocks/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuildingBlocks/BuildingBlocks/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/BuildingBlocks/BuildingBlocks/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuildingBlocks/BuildingBlocks/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BuildingBlocks/BuildingBlocks/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuildingBlocks/BuildingBlocks/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/BuildingBlocks/BuildingBlocks/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuildingBlocks/BuildingBlocks/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/BuildingBlocks/BuildingBlocks/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Services/Catalog/Catalog.API/Catalog.API.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/Catalog.API.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Services/Catalog/Catalog.API/Products/CreateProduct/CreateProductEndPoint.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/Products/CreateProduct/CreateProductEndPoint.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/Catalog/Catalog.API/GlobalUsing.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/GlobalUsing.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Services/Catalog/Catalog.API/Products/CreateProduct/CreateProductHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/Products/CreateProduct/CreateProductHandler.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Services/Catalog/Catalog.API/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/Catalog/Catalog.API/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/appsettings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/Catalog.API.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/Catalog.API.csproj.nuget.dgspec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/Catalog.API.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/Catalog.API.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/Catalog.API.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/Catalog.API.csproj.nuget.g.targets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/Debug/net8.0/Catalog.API.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/Debug/net8.0/Catalog.API.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/Debug/net8.0/Catalog.API.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/Debug/net8.0/Catalog.API.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/Debug/net8.0/Catalog.API.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/Debug/net8.0/Catalog.API.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/Debug/net8.0/Catalog.API.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/Debug/net8.0/Catalog.API.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/Debug/net8.0/Catalog.API.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/Debug/net8.0/Catalog.API.csproj.AssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/rider.project.model.nuget.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-microservices.sln" beforeDir="false" afterPath="$PROJECT_DIR$/eshop-microservices.sln" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +90,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected=".NET Launch Settings Profile.Catalog.API: https">
+  <component name="RunManager" selected="Docker.docker-compose.yml: Compose Deployment">
     <configuration name="Catalog.API: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Services/Catalog/Catalog.API/Catalog.API.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value="net8.0" />
@@ -136,9 +148,22 @@
       <EXTENSION ID="com.jetbrains.rider.docker.debug" isFastModeEnabled="true" isSslEnabled="true" />
       <method v="2" />
     </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
       <deployment type="dockerfile">
         <settings />
+      </deployment>
+      <EXTENSION ID="com.jetbrains.rider.docker.debug" isFastModeEnabled="true" isSslEnabled="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
       </deployment>
       <EXTENSION ID="com.jetbrains.rider.docker.debug" isFastModeEnabled="true" isSslEnabled="false" />
       <method v="2" />
@@ -156,6 +181,7 @@
       <workItem from="1721058251719" duration="6403000" />
       <workItem from="1721834047207" duration="3655000" />
       <workItem from="1721921282555" duration="3451000" />
+      <workItem from="1722676213112" duration="4520000" />
     </task>
     <servers />
   </component>
@@ -169,19 +195,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Services/Catalog/Catalog.API/Products/CreateProduct/CreateProductHandler.cs</url>
-          <line>19</line>
-          <properties documentPath="D:\Code\EshopMicroservices\src\Services\Catalog\Catalog.API\Products\CreateProduct\CreateProductHandler.cs" containingFunctionPresentation="Method 'Handle'">
-            <startOffsets>
-              <option value="571" />
-            </startOffsets>
-            <endOffsets>
-              <option value="572" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Services/Catalog/Catalog.API/Products/CreateProduct/CreateProductEndPoint.cs</url>
           <line>18</line>
